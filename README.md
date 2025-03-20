@@ -21,6 +21,8 @@ The Expense Tracking System is a software solution developed to streamline and s
 - User-friendly interface
 - Data visualization for expense analysis
 
+
+
 ## 🚀Usage
 
  **Launch the Application:**  
@@ -28,8 +30,7 @@ The Expense Tracking System is a software solution developed to streamline and s
      ```
      http://localhost:8000
      ```
-
-### 🔥 **Features:**
+### 🔥 **Add / Update Tab :**
 - **Date Picker:** Select the date for the expense entry.  
 - **Amount Field:**  
     - Enter the amount spent.  
@@ -43,11 +44,11 @@ The Expense Tracking System is a software solution developed to streamline and s
 
    ![Add Expense](app_frontend.png)
 
-## 📊 Analytics By Category Tab
+### 📊 Analytics By Category Tab :
 
 The **Analytics By Category Tab** provides a visual breakdown of expenses by category. Users can select a **Start Date** and **End Date** to filter the expenses within a specific time range. 
 
-### 🔥 **Features:**
+#### 🔥 **Features:**
 - **Date Range Filter:** Select start and end dates to view expenses for a custom period.  
 - **Bar Chart Visualization:**  
     - Displays expenses by category.  
@@ -57,11 +58,11 @@ The **Analytics By Category Tab** provides a visual breakdown of expenses by cat
 
    ![View Expenses](category_Tab_UI.png)
 
-## 📊 Analytics By Months Tab
+### 📊 Analytics By Months Tab :
 
 The **Analytics By Months Tab** provides a monthly breakdown of expenses, helping users visualize their spending patterns over time.
 
-### 🔥 **Features:**
+#### 🔥 **Features:**
 - **Monthly Bar Chart:**  
     - Displays total expenses for each month.  
     - Allows users to compare monthly spending visually.  
