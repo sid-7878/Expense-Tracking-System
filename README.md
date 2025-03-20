@@ -55,7 +55,7 @@ The **Analytics By Category Tab** provides a visual breakdown of expenses by cat
 - **Summary Table:**  
     - Lists categories along with total expenses and their percentage contribution. 
 
-   ![View Expenses](Months_Tab_UI.png)
+   ![View Expenses](category_Tab_UI.png)
 
 ## 📊 Analytics By Months Tab
 
@@ -69,7 +69,7 @@ The **Analytics By Months Tab** provides a monthly breakdown of expenses, helpin
     - Shows month number, month name, and total expenses.  
     - Helps users quickly review their spending across different months.
 
-   ![Analytics Dashboard](Category_Tab_UI.png)
+   ![Analytics Dashboard](Analysis_Month_Tab_UI.png)
 
 
 
