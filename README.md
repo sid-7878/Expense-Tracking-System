@@ -69,21 +69,15 @@ The Expense Tracking System is a software solution developed to streamline and s
    - Go to the **View Expenses** section to see the list of all recorded expenses.  
    - Use filters to sort expenses by date, category, or amount.  
 
-   ![View Expenses](assets/images/view_expenses.png)
+   ![View Expenses](Category_Tab_UI.png)
 
 4. **Analyze Spending:**  
    - Visit the **Analytics** section.  
    - View visual representations of your spending patterns using charts and graphs.  
 
-   ![Analytics Dashboard](assets/images/analytics_dashboard.png)
+   ![Analytics Dashboard](Months_Tab_UI.png)
 
----
 
-✅ **Instructions:**
-- Replace the placeholder image paths (e.g., `assets/images/add_expense.png`) with the actual file paths of your screenshots.
-- Make sure the screenshots are uploaded to your GitHub repository.
-
-This section provides a clean and detailed explanation of how to use your project along with relevant screenshots. 🚀
 
 
 
