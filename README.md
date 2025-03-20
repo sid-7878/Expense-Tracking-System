@@ -3,7 +3,7 @@
 The Expense Tracking System is a software solution developed to streamline and simplify the process of expense management for individuals and businesses. This project aims to provide users with an efficient and organized approach to expense management, improving accuracy and offering valuable insights into expenditure patterns.
 
 
-## Project Structure
+## 🎯Project Structure
 
 - **frontend/**: Contains the Streamlit application code.
 - **backend/**: Contains the FastAPI backend server code.
@@ -12,36 +12,7 @@ The Expense Tracking System is a software solution developed to streamline and s
 - **README.md**: Provides an overview and instructions for the project.
 
 
-## Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/sid-7878/expense-management-system.git
-   cd expense-management-system
-   ```
-1. **Install dependencies:**:   
-   ```commandline
-    pip install -r requirements.txt
-   ```
-1. **Run the FastAPI server:**:   
-   ```commandline
-    uvicorn server.server:app --reload
-   ```
-1. **Run the Streamlit app:**:   
-   ```commandline
-    streamlit run frontend/app.py
-   ```
-   
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Demo Video](#demo-video)
-- [Contributing](#contributing)
-- [License](#license)
-
-
-## Features
+## 💡Features
 
 - Add expenses with detailed descriptions and amounts
 - Automatically capture the date and time of each expense
@@ -50,34 +21,77 @@ The Expense Tracking System is a software solution developed to streamline and s
 - User-friendly interface
 - Data visualization for expense analysis
 
-## Usage
+## 🚀Usage
 
-1. **Launch the Application:**  
+ **Launch the Application:**  
    - Start the server and access the web interface at:  
      ```
      http://localhost:8000
      ```
 
-2. **Add a New Expense:**  
-   - Navigate to the **Add Expense** section.  
-   - Fill in the form with details like description, amount, category, and date.  
-   - Click **Submit** to save the expense.  
+### 🔥 **Features:**
+- **Date Picker:** Select the date for the expense entry.  
+- **Amount Field:**  
+    - Enter the amount spent.  
+    - Use the `+` and `-` buttons to adjust the value.  
+- **Category Selection:**  
+    - Choose from predefined categories (e.g., Rent, Food, etc.).  
+- **Notes Section:**  
+    - Add custom notes describing the expense.  
+- **Submit Button:**  
+    - Save the expense record to the database.
 
    ![Add Expense](app_frontend.png)
 
-3. **View Expenses:**  
-   - Go to the **View Expenses** section to see the list of all recorded expenses.  
-   - Use filters to sort expenses by date, category, or amount.  
+## 📊 Analytics By Category Tab
 
-   ![View Expenses](Category_Tab_UI.png)
+The **Analytics By Category Tab** provides a visual breakdown of expenses by category. Users can select a **Start Date** and **End Date** to filter the expenses within a specific time range. 
 
-4. **Analyze Spending:**  
-   - Visit the **Analytics** section.  
-   - View visual representations of your spending patterns using charts and graphs.  
+### 🔥 **Features:**
+- **Date Range Filter:** Select start and end dates to view expenses for a custom period.  
+- **Bar Chart Visualization:**  
+    - Displays expenses by category.  
+    - Makes it easy to identify major spending areas.  
+- **Summary Table:**  
+    - Lists categories along with total expenses and their percentage contribution. 
 
-   ![Analytics Dashboard](Months_Tab_UI.png)
+   ![View Expenses](Months_Tab_UI.png)
+
+## 📊 Analytics By Months Tab
+
+The **Analytics By Months Tab** provides a monthly breakdown of expenses, helping users visualize their spending patterns over time.
+
+### 🔥 **Features:**
+- **Monthly Bar Chart:**  
+    - Displays total expenses for each month.  
+    - Allows users to compare monthly spending visually.  
+- **Summary Table:**  
+    - Shows month number, month name, and total expenses.  
+    - Helps users quickly review their spending across different months.
+
+   ![Analytics Dashboard](Category_Tab_UI.png)
 
 
+
+## 🛠️Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/sid-7878/expense-management-system.git
+   cd expense-management-system
+   ```
+2. **Install dependencies:**:   
+   ```commandline
+    pip install -r requirements.txt
+   ```
+3. **Run the FastAPI server:**:   
+   ```commandline
+    uvicorn server.server:app --reload
+   ```
+4. **Run the Streamlit app:**:   
+   ```commandline
+    streamlit run frontend/app.py
+   ```
 
 
 
