@@ -1,0 +1,139 @@
+2025-03-13 08:00:45,868 - db - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-03-13 08:00:45,975 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-13 08:07:32,945 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-13 10:15:00,741 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-13 10:15:39,601 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-13 10:15:41,735 - db - INFO - delete_expenses_for_date called with 2024-08-01
+2025-03-13 10:15:41,799 - db - INFO - insert_expense called with date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-03-13 10:15:41,834 - db - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-03-13 10:15:41,861 - db - INFO - insert_expense called with date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-03-13 10:15:41,888 - db - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-03-13 10:15:41,916 - db - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Panipuri
+2025-03-13 11:25:47,442 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-13 11:25:54,866 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-13 11:25:57,090 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-13 12:40:54,185 - db - INFO - Starting monthly expense summary query execution.
+2025-03-13 12:42:08,304 - db - INFO - Starting monthly expense summary query execution.
+2025-03-13 13:23:39,170 - db - INFO - Starting monthly expense summary query execution.
+2025-03-13 13:25:23,095 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-13 13:26:25,286 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-13 13:26:27,441 - db - INFO - Starting monthly expense summary query execution.
+2025-03-13 13:42:45,767 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-13 13:42:47,957 - db - INFO - Starting monthly expense summary query execution.
+2025-03-14 11:28:08,891 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 11:28:11,130 - db - INFO - Starting monthly expense summary query execution.
+2025-03-14 11:36:31,780 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 11:37:47,550 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 11:37:49,713 - db - INFO - Starting monthly expense summary query execution.
+2025-03-14 11:46:02,806 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 11:46:04,954 - db - INFO - Starting monthly expense summary query execution.
+2025-03-14 12:07:30,944 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 12:07:45,914 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:12:58,479 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:17:58,914 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:24:06,218 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:26:45,143 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:26:47,306 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 12:27:02,270 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:27:04,503 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-14 12:27:06,603 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 12:40:54,915 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:40:57,097 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 12:44:05,523 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:44:07,702 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 12:44:36,136 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:44:38,258 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-14 12:44:40,368 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 12:46:27,148 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:46:29,237 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 12:54:12,034 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:54:14,229 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 12:56:11,742 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:56:13,855 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 12:58:44,299 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 12:58:46,439 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:01:55,076 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:01:57,203 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:02:29,003 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:02:31,157 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-14 13:02:33,287 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:05:16,207 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:05:18,360 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:08:20,051 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:08:22,185 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:10:45,086 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:10:47,244 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:11:00,360 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:11:02,516 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-14 13:11:04,628 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:13:11,343 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:13:13,487 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:14:30,042 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:14:32,132 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:15:51,752 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:15:53,868 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:17:34,297 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:17:36,460 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:18:02,557 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:18:04,685 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-14 13:18:06,831 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:20:27,368 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:20:29,496 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:20:39,951 - db - INFO - fetch_expenses_for_date called with 2024-08-28
+2025-03-14 13:20:59,560 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:21:01,682 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:21:14,679 - db - INFO - fetch_expenses_for_date called with 2024-08-28
+2025-03-14 13:21:50,337 - db - INFO - fetch_expenses_for_date called with 2024-08-15
+2025-03-14 13:21:52,465 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:22:08,507 - db - INFO - fetch_expenses_for_date called with 2024-10-02
+2025-03-14 13:22:10,641 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:22:28,470 - db - INFO - fetch_expenses_for_date called with 2024-02-14
+2025-03-14 13:22:30,562 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:22:52,046 - db - INFO - fetch_expenses_for_date called with 2024-08-28
+2025-03-14 13:23:32,121 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:23:34,231 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:23:35,370 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:23:37,478 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 13:23:44,578 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 13:23:46,729 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-14 13:23:48,850 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 14:02:57,982 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 14:03:00,144 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 14:03:08,039 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 14:03:10,159 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-14 14:03:12,281 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 14:04:12,856 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 14:04:14,992 - db - INFO - fetch_expense_summary_by_months
+2025-03-14 14:05:28,112 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-14 14:05:30,245 - db - INFO - fetch_expense_summary_by_months
+2025-03-20 23:21:48,024 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-20 23:21:50,550 - db - INFO - fetch_expense_summary_by_months
+2025-03-20 23:24:37,296 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-20 23:24:39,462 - db - INFO - delete_expenses_for_date called with 2024-08-01
+2025-03-20 23:24:39,528 - db - INFO - insert_expense called with date: 2024-08-01, amount: 3900.0, category: Shopping, notes: Monthly rent payment
+2025-03-20 23:24:39,558 - db - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-03-20 23:24:39,584 - db - INFO - insert_expense called with date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-03-20 23:24:39,608 - db - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-03-20 23:24:39,634 - db - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Panipuri
+2025-03-20 23:24:41,694 - db - INFO - fetch_expense_summary_by_months
+2025-03-20 23:24:50,342 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-20 23:24:52,450 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-20 23:24:54,583 - db - INFO - fetch_expense_summary_by_months
+2025-03-20 23:37:29,079 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-20 23:37:31,222 - db - INFO - delete_expenses_for_date called with 2024-08-01
+2025-03-20 23:37:31,282 - db - INFO - insert_expense called with date: 2024-08-01, amount: 2700.0, category: Rent, notes: Monthly rent payment
+2025-03-20 23:37:31,316 - db - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-03-20 23:37:31,348 - db - INFO - insert_expense called with date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-03-20 23:37:31,371 - db - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-03-20 23:37:31,396 - db - INFO - insert_expense called with date: 2024-08-01, amount: 300.0, category: Food, notes: Panipuri
+2025-03-20 23:37:33,486 - db - INFO - fetch_expense_summary_by_months
+2025-03-20 23:37:39,948 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-20 23:37:42,086 - db - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-03-20 23:37:44,206 - db - INFO - fetch_expense_summary_by_months
+2025-03-20 23:37:51,208 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-20 23:37:53,342 - db - INFO - fetch_expense_summary_by_months
+2025-03-20 23:38:01,190 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-20 23:38:03,356 - db - INFO - fetch_expense_summary_by_months
+2025-03-20 23:38:04,668 - db - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-03-20 23:38:06,814 - db - INFO - fetch_expense_summary called with start: 2024-08-06 end: 2024-08-16
+2025-03-20 23:38:08,952 - db - INFO - fetch_expense_summary_by_months
